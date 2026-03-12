@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Projet</string>
+    <string name="title_activity_animal_identity">AnimalIdentityActivity</string>
+    <string name="title_activity_species">SpeciesActivity</string>
+</resources>

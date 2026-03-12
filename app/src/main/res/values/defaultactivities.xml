@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="species_defaultactivities">
+        <item>Hedgehog</item>
+        <item>Dog</item>
+        <item>Cat</item>
+        <item>Dog</item>
+    </string-array>
+    <string-array name="description_defaultactivities">
+        <item>Douche</item>
+        <item>Promenade</item>
+        <item>Manger</item>
+        <item>Manger</item>
+    </string-array>
+    <string-array name="date_defaultactivities">
+        <item>18:00</item>
+        <item>15:00</item>
+        <item>12:00</item>
+        <item>9:00</item>
+    </string-array>
+</resources>

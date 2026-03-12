@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="species">
+        <item>Dog</item>
+        <item>Cat</item>
+        <item>Rabbit</item>
+        <item>GuineaPig</item>
+        <item>Hamster</item>
+        <item>Goldfish</item>
+        <item>Canary</item>
+        <item>Turtle</item>
+        <item>Hedgehog</item>
+        <item>Pony</item>
+    </string-array>
+</resources>
